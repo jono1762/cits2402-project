@@ -1,1 +1,2 @@
-# cits2402-project
+# CITS2402 Project
+This repository contains a submission for a group project  for the unit, CITS2402 (Introduction to Data Science). We explored the question, "What trends exist between a person's highest non-school qualification and the industry they find themselves working in for males and females respectively and how has it changed from 2016 to 2021?", reporting our findings in a Jupyter notebook which details an exploratory data analysis (EDA) using Python data science libraries including NumPy, Pandas and Matplotlib to answer this question. It contains instructions on how you can obtain the data and run the provided code yourself, assuming you have downloaded the notebook and opened it in your preferred Jupyter notebook environment.
